@@ -1,0 +1,28 @@
+
+* {
+    -web-kit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+   font-family: 'Urbanist', sans-serif;
+    }
+    html {
+    scroll-behavior: smooth;
+    }
+    body {
+    float: left;
+    width: 100%;
+    margin: 0px;
+   font-family: 'Urbanist', sans-serif;
+    } 
+    figure,h1,h2,h3,h4,h5,h6,p,ul{
+        margin: 0px;
+    }
+    .custom_container{
+        max-width:992px;
+        margin:0 auto;
+        height: 100%;
+        }
+
+  

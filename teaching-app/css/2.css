@@ -1,0 +1,102 @@
+
+        .Welcome_page_section{
+            display: block;
+            width: 100%;
+            height: 100%;
+            padding: 34px 10px 30px 10px;
+        }
+        .Welcome_page{
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+            justify-content: center;
+        }
+        .Welcome_page .logo{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding-bottom: 77px;
+        }
+        .Welcome_page .logo img{
+          width: 83px;
+        }
+     .Welcome_page_data{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+     }
+     .Welcome_page_data figure{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding-bottom: 46px;
+     }
+     .Welcome_page_data figure img{
+        max-width: 327px;
+        width: 100%; 
+    }
+       
+        .Welcome_page_data h5{
+            font-style: normal;
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 32px;
+            text-align: center;
+            color: #111827;
+            padding-bottom: 5px;
+        }
+        .Welcome_page_data h2{
+            font-style: normal;
+            font-weight: 800;
+            font-size: 23px;
+            line-height: 32px;
+            text-align: center;
+            text-transform: uppercase;
+            color: #1F854B;
+            padding-bottom: 10px;
+        }
+        .Welcome_page_data p{
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #9CA3AF;
+            padding-bottom: 43px;
+        }
+        .Welcome_page_continue_btn{
+            background: #1F854B;
+            border-radius: 12px;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.3px;
+            color: #FFFFFF !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 32px;
+            text-decoration: none !important;
+            height: 56px;
+        }
+        .Welcome_page_signin_btn{
+            background: #F0F5FF;
+            border-radius: 12px;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            letter-spacing: 0.3px;
+            color: #005CBA !important; 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none !important;
+            height: 56px;
+        }
